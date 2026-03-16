@@ -1,16 +1,24 @@
-## Hi there 👋
+# Aaron Adcock
 
-<!--
-**AaronAdcock/AaronAdcock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Research Engineering Manager at Meta AI (FAIR)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Experienced researcher and engineering leader specializing in **Computer Vision**, **Machine Learning**, and **Large-scale AI Systems**. Currently leading initiatives at Meta's Fundamental AI Research (FAIR) team, focusing on high-impact projects like **Segment Anything (SAM)** and scalable pre-training.
+
+## 🎓 Education
+- **Ph.D. in Electrical Engineering** | Stanford University
+  - Focus: Computational and Mathematical Engineering, Topological Data Analysis, Social Network Analysis.
+
+## 🛠️ Expertise
+- **AI/ML:** Foundation Models, Self-Supervised Learning (MAE), Computer Vision Fairness (FACET).
+- **Systems:** Distributed Systems Optimization, Large-scale Machine Learning Infrastructures.
+- **Data Science:** Topological Data Analysis (TDA), Graph Theory, Social Network Analysis.
+
+## 🔗 Connect with Me
+- [LinkedIn Profile](https://www.linkedin.com/in/aaron-adcock-79855383/)
+
+---
+
+*“Driving the next generation of fundamental AI research and building scalable, fair, and efficient machine learning systems.”*
